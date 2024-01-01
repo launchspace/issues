@@ -1,2 +1,2 @@
-# issues
-Issues &amp; requests tracking repo
+# Issues
+Issues & requests tracking repo
